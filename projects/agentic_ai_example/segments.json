@@ -1,0 +1,252 @@
+{
+  "project_name": "Agentic AI Skills Framework",
+  "voice": "en-GB-RyanNeural",
+  "visual_config": {
+    "primary_style": "isometric",
+    "secondary_style": "cyberpunk",
+    "consistency_mode": "moderate",
+    "platform": "nano-banana-pro"
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "title": "Introduction to Agentic AI",
+      "music_track": "background.mp3",
+      "music_volume": 0.15,
+      "segments": [
+        {
+          "segment_id": "001",
+          "narration": "Agentic AI represents the next evolution in artificial intelligence, where autonomous agents can reason, plan, and act independently to achieve complex goals.",
+          "ken_burns_sequence": [
+            "zoom_in"
+          ],
+          "transition": "fade",
+          "image_prompt": "AI agent represented as robot. in a futuristic environment. isometric view, isometric perspective, 3D render. structured layout, geometric arrangement. 8K resolution, hyper-detailed, sharp focus, cinematic lighting. autonomous entity, digital being --ar 16:9 --style raw --stylize 750",
+          "image_prompt_negative": "blurry, deformed, ugly, low quality, bad anatomy, extra limbs, text, watermark, signature, logo, artist name, cropped, out of frame, worst quality, low res, jpeg artifacts, noise, grain, flat, 2D, blurry, distorted perspective",
+          "image_prompt_source": "generated",
+          "agentic_concepts": [
+            "agent",
+            "planning"
+          ],
+          "visual_style": "isometric"
+        },
+        {
+          "segment_id": "002",
+          "narration": "These systems are built on nine core skills that every Agentic AI strategist must master to create production-ready, enterprise-scale solutions.",
+          "ken_burns_sequence": [
+            "pan_right"
+          ],
+          "transition": "fade",
+          "image_prompt": "AI agent represented as robot. in a futuristic environment. isometric view, isometric perspective, 3D render. structured layout, geometric arrangement. 8K resolution, hyper-detailed, sharp focus, cinematic lighting. autonomous entity, digital being --ar 16:9 --style raw --stylize 750",
+          "image_prompt_negative": "blurry, deformed, ugly, low quality, bad anatomy, extra limbs, text, watermark, signature, logo, artist name, cropped, out of frame, worst quality, low res, jpeg artifacts, noise, grain, flat, 2D, blurry, distorted perspective",
+          "image_prompt_source": "generated",
+          "agentic_concepts": [
+            "agent"
+          ],
+          "visual_style": "isometric"
+        }
+      ]
+    },
+    {
+      "chapter_id": 2,
+      "title": "Pillar I: Autonomous System Architecture",
+      "music_track": "background.mp3",
+      "music_volume": 0.15,
+      "segments": [
+        {
+          "segment_id": "003",
+          "narration": "Multi-agent orchestration is the foundation of any reliable agentic system. A central orchestrator coordinates multiple specialized agents, managing their state transitions and ensuring robust collaboration.",
+          "ken_burns_sequence": [
+            "zoom_out",
+            "pan_left"
+          ],
+          "transition": "fade",
+          "image_prompt": "AI agent represented as robot. managing data and information. isometric view, isometric perspective, 3D render. structured layout, geometric arrangement. 8K resolution, hyper-detailed, sharp focus, cinematic lighting. autonomous entity, digital being --ar 16:9 --style raw --stylize 750",
+          "image_prompt_negative": "blurry, deformed, ugly, low quality, bad anatomy, extra limbs, text, watermark, signature, logo, artist name, cropped, out of frame, worst quality, low res, jpeg artifacts, noise, grain, flat, 2D, blurry, distorted perspective",
+          "image_prompt_source": "generated",
+          "agentic_concepts": [
+            "agent",
+            "multi-agent",
+            "orchestration",
+            "state_management"
+          ],
+          "visual_style": "isometric"
+        },
+        {
+          "segment_id": "004",
+          "narration": "Interoperability enables agents from different vendors and frameworks to work together seamlessly. Through standards like Agent-to-Agent protocol and Model Context Protocol, agents can discover capabilities and collaborate across ecosystem boundaries.",
+          "ken_burns_sequence": [
+            "pan_right"
+          ],
+          "transition": "crossfade",
+          "image_prompt": "AI agent represented as robot. in a futuristic environment. isometric view, isometric perspective, 3D render. structured layout, geometric arrangement. 8K resolution, hyper-detailed, sharp focus, cinematic lighting. autonomous entity, digital being --ar 16:9 --style raw --stylize 750",
+          "image_prompt_negative": "blurry, deformed, ugly, low quality, bad anatomy, extra limbs, text, watermark, signature, logo, artist name, cropped, out of frame, worst quality, low res, jpeg artifacts, noise, grain, flat, 2D, blurry, distorted perspective",
+          "image_prompt_source": "generated",
+          "agentic_concepts": [
+            "agent",
+            "interoperability"
+          ],
+          "visual_style": "isometric"
+        },
+        {
+          "segment_id": "005",
+          "narration": "Production-grade observability is critical for monitoring agent behavior in real-time. Holographic dashboards display performance metrics, logs, and traces, allowing operators to detect and resolve issues before they impact users.",
+          "ken_burns_sequence": [
+            "zoom_in"
+          ],
+          "transition": "fade",
+          "image_prompt": "AI agent represented as robot. monitoring data and information. isometric view, isometric perspective, 3D render. structured layout, geometric arrangement. 8K resolution, hyper-detailed, sharp focus, cinematic lighting. autonomous entity, digital being --ar 16:9 --style raw --stylize 750",
+          "image_prompt_negative": "blurry, deformed, ugly, low quality, bad anatomy, extra limbs, text, watermark, signature, logo, artist name, cropped, out of frame, worst quality, low res, jpeg artifacts, noise, grain, flat, 2D, blurry, distorted perspective",
+          "image_prompt_source": "generated",
+          "agentic_concepts": [
+            "agent",
+            "observability",
+            "knowledge_graph"
+          ],
+          "visual_style": "isometric"
+        }
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "title": "Pillar II: Data-Centric AI Engineering",
+      "music_track": "background.mp3",
+      "music_volume": 0.15,
+      "segments": [
+        {
+          "segment_id": "006",
+          "narration": "Hybrid memory architectures combine short-term working memory with long-term knowledge storage. Like a crystalline brain with distinct sections, these systems enable agents to recall past experiences and apply learned knowledge to new situations.",
+          "ken_burns_sequence": [
+            "zoom_in",
+            "pan_up"
+          ],
+          "transition": "fade",
+          "image_prompt": "AI agent represented as robot. in a futuristic environment. isometric view, isometric perspective, 3D render. structured layout, geometric arrangement. 8K resolution, hyper-detailed, sharp focus, cinematic lighting. autonomous entity, digital being --ar 16:9 --style raw --stylize 750",
+          "image_prompt_negative": "blurry, deformed, ugly, low quality, bad anatomy, extra limbs, text, watermark, signature, logo, artist name, cropped, out of frame, worst quality, low res, jpeg artifacts, noise, grain, flat, 2D, blurry, distorted perspective",
+          "image_prompt_source": "generated",
+          "agentic_concepts": [
+            "agent",
+            "state_management",
+            "memory"
+          ],
+          "visual_style": "isometric"
+        },
+        {
+          "segment_id": "007",
+          "narration": "Context economics focuses on optimizing the balance between data volume and processing efficiency. Agents must compress vast amounts of information into concise, actionable tokens without losing critical context.",
+          "ken_burns_sequence": [
+            "zoom_out"
+          ],
+          "transition": "crossfade",
+          "image_prompt": "AI agent represented as robot. processing data and information. isometric view, isometric perspective, 3D render. structured layout, geometric arrangement. 8K resolution, hyper-detailed, sharp focus, cinematic lighting. autonomous entity, digital being --ar 16:9 --style raw --stylize 750",
+          "image_prompt_negative": "blurry, deformed, ugly, low quality, bad anatomy, extra limbs, text, watermark, signature, logo, artist name, cropped, out of frame, worst quality, low res, jpeg artifacts, noise, grain, flat, 2D, blurry, distorted perspective",
+          "image_prompt_source": "generated",
+          "agentic_concepts": [
+            "agent",
+            "data_flow"
+          ],
+          "visual_style": "isometric"
+        },
+        {
+          "segment_id": "008",
+          "narration": "Data quality and governance ensure that agents work with clean, validated, and trustworthy information. Like a digital gardener tending to a data ecosystem, these practices remove noise and cultivate high-quality knowledge.",
+          "ken_burns_sequence": [
+            "pan_left",
+            "zoom_in"
+          ],
+          "transition": "fade",
+          "image_prompt": "AI agent represented as robot. in a futuristic environment. isometric view, isometric perspective, 3D render. structured layout, geometric arrangement. 8K resolution, hyper-detailed, sharp focus, cinematic lighting. autonomous entity, digital being --ar 16:9 --style raw --stylize 750",
+          "image_prompt_negative": "blurry, deformed, ugly, low quality, bad anatomy, extra limbs, text, watermark, signature, logo, artist name, cropped, out of frame, worst quality, low res, jpeg artifacts, noise, grain, flat, 2D, blurry, distorted perspective",
+          "image_prompt_source": "generated",
+          "agentic_concepts": [
+            "agent",
+            "memory",
+            "data_quality"
+          ],
+          "visual_style": "isometric"
+        }
+      ]
+    },
+    {
+      "chapter_id": 4,
+      "title": "Pillar III: Security, Governance, and Capability",
+      "music_track": "background.mp3",
+      "music_volume": 0.15,
+      "segments": [
+        {
+          "segment_id": "009",
+          "narration": "Non-human identity and access management treats agents as first-class digital citizens with their own credentials and permissions. Each agent holds unique keys that unlock specific resources and capabilities.",
+          "ken_burns_sequence": [
+            "zoom_in"
+          ],
+          "transition": "fade",
+          "image_prompt": "AI agent represented as robot. in a futuristic environment. isometric view, isometric perspective, 3D render. structured layout, geometric arrangement. 8K resolution, hyper-detailed, sharp focus, cinematic lighting. autonomous entity, digital being --ar 16:9 --style raw --stylize 750",
+          "image_prompt_negative": "blurry, deformed, ugly, low quality, bad anatomy, extra limbs, text, watermark, signature, logo, artist name, cropped, out of frame, worst quality, low res, jpeg artifacts, noise, grain, flat, 2D, blurry, distorted perspective",
+          "image_prompt_source": "generated",
+          "agentic_concepts": [
+            "agent",
+            "orchestration"
+          ],
+          "visual_style": "isometric"
+        },
+        {
+          "segment_id": "010",
+          "narration": "Semantic capability engineering involves designing and forging new tools that agents can use to interact with the world. Like a digital blacksmith, engineers craft APIs and functions from raw data streams.",
+          "ken_burns_sequence": [
+            "pan_right",
+            "zoom_in"
+          ],
+          "transition": "crossfade",
+          "image_prompt": "AI agent represented as robot. in a futuristic environment. isometric view, isometric perspective, 3D render. structured layout, geometric arrangement. 8K resolution, hyper-detailed, sharp focus, cinematic lighting. autonomous entity, digital being --ar 16:9 --style raw --stylize 750",
+          "image_prompt_negative": "blurry, deformed, ugly, low quality, bad anatomy, extra limbs, text, watermark, signature, logo, artist name, cropped, out of frame, worst quality, low res, jpeg artifacts, noise, grain, flat, 2D, blurry, distorted perspective",
+          "image_prompt_source": "generated",
+          "agentic_concepts": [
+            "agent",
+            "tool_use",
+            "data_flow"
+          ],
+          "visual_style": "isometric"
+        },
+        {
+          "segment_id": "011",
+          "narration": "Agentic security and adversarial resilience protect autonomous systems from attacks and manipulation. Digital fortresses defended by AI guardians stand vigilant against threats attempting to compromise agent behavior.",
+          "ken_burns_sequence": [
+            "zoom_out"
+          ],
+          "transition": "fade",
+          "image_prompt": "AI agent represented as robot. in a futuristic environment. isometric view, isometric perspective, 3D render. structured layout, geometric arrangement. 8K resolution, hyper-detailed, sharp focus, cinematic lighting. autonomous entity, digital being --ar 16:9 --style raw --stylize 750",
+          "image_prompt_negative": "blurry, deformed, ugly, low quality, bad anatomy, extra limbs, text, watermark, signature, logo, artist name, cropped, out of frame, worst quality, low res, jpeg artifacts, noise, grain, flat, 2D, blurry, distorted perspective",
+          "image_prompt_source": "generated",
+          "agentic_concepts": [
+            "agent",
+            "security"
+          ],
+          "visual_style": "isometric"
+        }
+      ]
+    },
+    {
+      "chapter_id": 5,
+      "title": "Conclusion",
+      "music_track": "background.mp3",
+      "music_volume": 0.12,
+      "segments": [
+        {
+          "segment_id": "012",
+          "narration": "These nine skills form the complete foundation for building production-ready agentic AI systems. By mastering these principles, strategists can create autonomous agents that are reliable, secure, and capable of solving real-world problems at scale.",
+          "ken_burns_sequence": [
+            "zoom_in"
+          ],
+          "transition": "fade",
+          "image_prompt": "AI agent represented as robot. in a futuristic environment. isometric view, isometric perspective, 3D render. structured layout, geometric arrangement. 8K resolution, hyper-detailed, sharp focus, cinematic lighting. autonomous entity, digital being --ar 16:9 --style raw --stylize 750",
+          "image_prompt_negative": "blurry, deformed, ugly, low quality, bad anatomy, extra limbs, text, watermark, signature, logo, artist name, cropped, out of frame, worst quality, low res, jpeg artifacts, noise, grain, flat, 2D, blurry, distorted perspective",
+          "image_prompt_source": "generated",
+          "agentic_concepts": [
+            "agent"
+          ],
+          "visual_style": "isometric"
+        }
+      ]
+    }
+  ]
+}
