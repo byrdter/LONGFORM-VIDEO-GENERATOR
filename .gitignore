@@ -1,0 +1,77 @@
+# Environment
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# uv
+.uv/
+uv.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project outputs (large files)
+projects/*/images/*.png
+projects/*/audio/*.mp3
+projects/*/clips/*.mp4
+projects/*/final_video.mp4
+projects/*/*.chapters.txt
+
+# Keep project structure but not generated content
+!projects/*/.gitkeep
+!projects/example_project/segments.json
+
+# Test outputs
+test_*.png
+test_*.mp3
+test_*.mp4
+test_*.wav
+
+# Music files (too large for git, user should download separately)
+music/*.mp3
+music/*.wav
+!music/.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
+concat_list.txt
+
+# Logs
+*.log
+
+# FFmpeg intermediate files
+*.ts
+ffmpeg2pass*

@@ -1,0 +1,80 @@
+{
+  "project_name": "The Fall of Rome",
+  "voice": "en-GB-RyanNeural",
+  "total_chapters": 3,
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "title": "The Golden Age",
+      "music_track": "epic_orchestral.mp3",
+      "music_volume": 0.15,
+      "segments": [
+        {
+          "segment_id": "001",
+          "narration": "At its height, the Roman Empire stretched from the misty shores of Britain to the sun-scorched deserts of Mesopotamia. Over sixty million souls lived under the eagle standard.",
+          "image_prompt": "Panoramic aerial view of ancient Rome at the height of its power, the Colosseum and Roman Forum prominent in the foreground, marble temples and monuments stretching to the horizon, warm golden sunset light, photorealistic, cinematic composition, 16:9 aspect ratio",
+          "ken_burns_sequence": ["zoom_out"],
+          "transition": "fade"
+        },
+        {
+          "segment_id": "002",
+          "narration": "The legions marched from frontier to frontier, enforcing a peace that would last for centuries. This was the Pax Romana, and it seemed it would last forever.",
+          "image_prompt": "Roman legionaries marching in formation through a mountain pass, eagles and standards held high, dramatic cloudy sky, dust rising from their feet, photorealistic historical scene, cinematic lighting, 16:9 aspect ratio",
+          "ken_burns_sequence": ["pan_left", "zoom_in"],
+          "transition": "crossfade"
+        },
+        {
+          "segment_id": "003",
+          "narration": "But empires, like men, are mortal. The very size that made Rome magnificent would become the weight that dragged it down.",
+          "image_prompt": "Weathered and cracked marble statue of a Roman emperor, partially covered in creeping vines, dramatic side lighting suggesting decay and faded glory, shallow depth of field, melancholic atmosphere, photorealistic, 16:9 aspect ratio",
+          "ken_burns_sequence": ["zoom_in"],
+          "transition": "fade"
+        }
+      ]
+    },
+    {
+      "chapter_id": 2,
+      "title": "Cracks in the Foundation",
+      "music_track": "tension_building.mp3",
+      "music_volume": 0.12,
+      "segments": [
+        {
+          "segment_id": "004",
+          "narration": "The third century brought crisis upon crisis. In a span of fifty years, more than twenty emperors would claim the throne, most dying by the sword.",
+          "image_prompt": "Dramatic scene of Roman imperial throne room in chaos, multiple figures in togas arguing, scattered scrolls and broken pottery, torchlight creating dramatic shadows, sense of political turmoil, photorealistic, 16:9 aspect ratio",
+          "ken_burns_sequence": ["zoom_in", "pan_right"],
+          "transition": "cut"
+        },
+        {
+          "segment_id": "005",
+          "narration": "At the borders, pressure mounted. Germanic tribes sensed weakness, and began to probe the once-impenetrable frontiers.",
+          "image_prompt": "Germanic warriors gathering at the edge of a dark forest, looking toward distant Roman watchtowers, misty atmosphere, torches flickering, tension and anticipation, photorealistic historical scene, dramatic lighting, 16:9 aspect ratio",
+          "ken_burns_sequence": ["pan_left"],
+          "transition": "fade"
+        }
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "title": "Maps and Documents",
+      "music_track": "ambient_scholarly.mp3",
+      "music_volume": 0.10,
+      "ken_burns_enabled": false,
+      "segments": [
+        {
+          "segment_id": "006",
+          "narration": "To understand the scale of Roman decline, we must examine the maps. At its peak in 117 AD, the empire encompassed the entire Mediterranean.",
+          "image_prompt": "Detailed historical map of the Roman Empire at its greatest extent in 117 AD, showing provinces labeled in Latin, Mediterranean Sea in the center, parchment texture, scholarly cartographic style, 16:9 aspect ratio",
+          "ken_burns_sequence": [],
+          "transition": "fade"
+        },
+        {
+          "segment_id": "007",
+          "narration": "Ancient chroniclers recorded the warning signs. This passage from Ammianus Marcellinus describes the Gothic crossing of the Danube in 376 AD.",
+          "image_prompt": "Ancient Roman manuscript page with Latin text, aged parchment with elegant calligraphy, scholarly documentation style, warm candlelight illumination, photorealistic, 16:9 aspect ratio",
+          "transition": "cut"
+        }
+      ]
+    }
+  ]
+}

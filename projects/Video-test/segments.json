@@ -1,0 +1,54 @@
+{
+  "project_name": "Prompt Engineering Is Not a Strategy",
+  "voice": "en-US-GuyNeural",
+  "total_chapters": 1,
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "title": "Prompt Engineering Is Not a Strategy",
+      "ken_burns_enabled": false,
+      "segments": [
+        {
+          "segment_id": "001",
+          "narration": "I want to start with a statement that may sound provocative at first, but becomes obvious the longer you work with AI systems. Prompt engineering is not a strategy. It is a technique — a useful one — but when teams treat it as strategy, they end up optimizing the wrong thing. And that mistake explains why so many AI projects look impressive in demos, yet struggle the moment they touch real workflows, real users, or real consequences. If you’ve ever felt that disconnect — where the AI feels smart but the system feels fragile — this video is for you.",
+          "image_prompt": "Split-screen conceptual illustration. Left side shows a sleek AI chat interface producing impressive responses during a polished demo, people watching confidently. Right side shows the same AI embedded in a real operational system with workflows, databases, users, visible warning indicators and stress. Strong contrast between demo success and production fragility. Cinematic, professional tech illustration, 16:9."
+        },
+        {
+          "segment_id": "002",
+          "narration": "Let’s be clear about what prompt engineering actually is. Prompt engineering is the practice of shaping how a language model responds by carefully choosing instructions, constraints, examples, and formatting. It influences tone, structure, and sometimes accuracy. And in the right context, it works extremely well. If your task is short-lived, low-risk, and mostly informational — summarization, drafting, or ideation — prompt engineering can dramatically improve results.",
+          "image_prompt": "Single AI model responding to a clearly structured prompt. Prompt text guides the output directly with clean cause-and-effect. No memory, no tools, no external systems. Contained interaction, predictable behavior. Minimal, professional tech illustration, 16:9."
+        },
+        {
+          "segment_id": "003",
+          "narration": "The confusion begins when we take a technique that works well at the sentence level and assume it will scale to the system level. Strategy is about sustained behavior over time. It’s about how decisions compound, how failures propagate, and how systems behave under pressure. Prompts don’t manage memory. Prompts don’t control state. Prompts don’t enforce boundaries.",
+          "image_prompt": "Small, well-formed prompt floating in the foreground while a much larger AI system emerges behind it, including memory layers, workflows, state machines, and tool calls. Clear scale mismatch between prompt and system. Cinematic architectural tech illustration, 16:9."
+        },
+        {
+          "segment_id": "004",
+          "narration": "A real system has memory that persists beyond a single interaction. It calls tools that can change the world. It accumulates cost, risk, and side effects over time. And once those dynamics exist, no amount of clever wording can compensate for missing structure. When these systems fail, they don’t fail loudly. They fail quietly — through inconsistency, rising costs, and unexplained behavior.",
+          "image_prompt": "Complex AI-driven system operating over time with multiple agents, tools, and data flows. Subtle warning indicators like drifting metrics and rising cost graphs. No dramatic crash, only quiet degradation. Serious, muted color palette. Professional tech illustration, 16:9."
+        },
+        {
+          "segment_id": "005",
+          "narration": "Prompt-centric thinking creates the illusion of control. You change a few words, the output improves, and it feels like progress. But you’re not governing the system — you’re nudging it. Real control comes from architecture, not phrasing.",
+          "image_prompt": "Human figure holding a small steering lever connected to a massive autonomous machine. The machine’s momentum clearly outweighs the influence of the lever. Symbolic illustration of illusion of control. Clean, cinematic composition, 16:9."
+        },
+        {
+          "segment_id": "006",
+          "narration": "Real AI strategy starts where prompt engineering ends. It asks different questions. Who is allowed to act? On what data? With which tools? Under what constraints? And how do we observe behavior when something goes wrong? Strategy is about designing conditions under which AI can be trusted.",
+          "image_prompt": "Layered AI system architecture with identity, data, memory, observability, and governance layers. Clear boundaries and guardrails visible. Prompt layer present but not central. Professional systems architecture aesthetic, 16:9."
+        },
+        {
+          "segment_id": "007",
+          "narration": "Prompt engineering isn’t useless. It’s just misplaced. Prompts are a tactic inside a strategy. When supported by architecture, grounded data, and controlled agency, prompts become powerful. When used alone, they become brittle.",
+          "image_prompt": "Prompt node integrated cleanly into a stable, well-balanced AI system. The system operates smoothly with clear structure and proportion. Visual communicates balance and proper role of prompts. Calm, confident tech illustration, 16:9."
+        },
+        {
+          "segment_id": "008",
+          "narration": "That’s why I focus on skills, not tricks. Prompting doesn’t disappear — but it stops being the center of gravity. If you want better prompts, learn prompting. If you want AI systems that hold up in the real world, you need strategy. And understanding that difference is the first step toward becoming an Agentic AI Strategist.",
+          "image_prompt": "Strategist figure overseeing a stable agentic AI ecosystem. Multiple systems operate smoothly under clear governance and guardrails. Calm, authoritative, future-facing tone. Cinematic professional tech illustration, 16:9."
+        }
+      ]
+    }
+  ]
+}
